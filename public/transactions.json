@@ -1,0 +1,65 @@
+[
+    {
+        "customerId": 1,
+        "customerName": "Ravi",
+        "transctions": [
+            {
+                "id": 1,
+                "amount": 120,
+                "date": "2022-10-01"
+            },
+            {
+                "id": 2,
+                "amount": 150,
+                "date": "2022-11-01"
+            },
+            {
+                "id": 3,
+                "amount": 200,
+                "date": "2022-12-01"
+            }
+        ]
+    },
+    {
+        "customerId": 2,
+        "customerName": "Akhil",
+        "transctions": [
+            {
+                "id": 1,
+                "amount": 180,
+                "date": "2022-10-01"
+            },
+            {
+                "id": 2,
+                "amount": 120,
+                "date": "2022-12-01"
+            },
+            {
+                "id": 3,
+                "amount": 80,
+                "date": "2023-01-01"
+            }
+        ]
+    },
+    {
+        "customerId": 3,
+        "customerName": "Rajesh",
+        "transctions": [
+            {
+                "id": 1,
+                "amount": 160,
+                "date": "2022-09-01"
+            },
+            {
+                "id": 2,
+                "amount": 90,
+                "date": "2022-12-01"
+            },
+            {
+                "id": 3,
+                "amount": 180,
+                "date": "2023-01-01"
+            }
+        ]
+    }
+]
